@@ -128,7 +128,7 @@ window.addEventListener("scroll",
                             <b>Mariam Peter</b>
                             accepted your friend request
                             </div>
-                            <small className='text-muted'>2 DAYS AGO</small>
+                            <small className='text-muted'>3 DAYS AGO</small>
                         </div>
                     </div>
                 </div>
