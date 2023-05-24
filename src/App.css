@@ -1,0 +1,45 @@
+.main{
+ top: 4.5rem;
+  position: relative;
+}
+
+.main .container{
+  display: grid;
+  grid-template-columns: 18vw auto 20vw;
+  column-gap: 2rem;
+  position: relative;
+}
+
+@media screen and (max-width:1200px) {
+  
+.main .container{
+  display: grid;
+  grid-template-columns: 5vw auto 30vw;
+  column-gap: 2rem;
+  position: relative;
+}
+
+.container{
+  width: 96%;
+}
+
+}
+
+
+@media screen and (max-width:992px) {
+      
+.main .container{
+  display: grid;
+  grid-template-columns: 0 auto 0;
+  column-gap: 0;
+ 
+}
+
+
+.container{
+  width: 100%;
+}
+  }
+
+
+
