@@ -264,6 +264,7 @@
     display: block;
     bottom: 57%;
     right: -0.7rem;
+    position: fixed;
 }
 
 
